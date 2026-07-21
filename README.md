@@ -6,6 +6,12 @@ https://github.com/emarco177/langchain-course
 - langchain link
 https://docs.langchain.com/oss/python/langchain/overview
 
+- lang smith link
+https://smith.langchain.com/
+
+- tavily
+https://app.tavily.com/home
+
 ### uv
 An extremely fast Python package and project manager, written in Rust.
 https://docs.astral.sh/uv/
